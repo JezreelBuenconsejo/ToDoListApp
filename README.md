@@ -6,7 +6,7 @@ Growmodo Trial Test
 
 Screenshot 1
 
-<img src="https://github.com/JezreelBuenconsejo/ToDoListApp/blob/master/screenshots/Screenshot1.PNGG" align="left" style="zoom:33%;" />
+<img src="https://github.com/JezreelBuenconsejo/ToDoListApp/blob/master/screenshots/Screenshot1.PNG" align="left" style="zoom:33%;" />
 
 Screenshot 2
 
@@ -19,7 +19,6 @@ Screenshot 4
 Screenshot 5
 
 <img src="https://github.com/JezreelBuenconsejo/ToDoListApp/blob/master/screenshots/Screenshot4.jpg" align="left" style="zoom:25%;" />
-
 
 
 More Screenshots at https://drive.google.com/drive/folders/1e83mYFvQO81APGEMxrwr2trZwViCJnhz?usp=sharing
