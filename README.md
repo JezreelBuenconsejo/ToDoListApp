@@ -6,19 +6,19 @@ Growmodo Trial Test
 
 Screenshot 1
 
-<img src="C:\Users\bjezr\Desktop\Work\Growmodo\ToDoListApp\screenshots\Screenshot1.PNG" align="left" style="zoom:33%;" />
+<img src="https://github.com/JezreelBuenconsejo/ToDoListApp/blob/master/screenshots/Screenshot1.PNGG" align="left" style="zoom:33%;" />
 
 Screenshot 2
 
-<img src="C:\Users\bjezr\Desktop\Work\Growmodo\ToDoListApp\screenshots\Screenshot2.PNG" align="left" style="zoom:33%;" />
+<img src="https://github.com/JezreelBuenconsejo/ToDoListApp/blob/master/screenshots/Screenshot2.PNG" align="left" style="zoom:33%;" />
 
 Screenshot 4
 
-<img src="C:\Users\bjezr\Desktop\Work\Growmodo\ToDoListApp\screenshots\Screenshot3.jpg" align="left" style="zoom:25%;" />
+<img src="https://github.com/JezreelBuenconsejo/ToDoListApp/blob/master/screenshots/Screenshot3.jpg" align="left" style="zoom:25%;" />
 
 Screenshot 5
 
-<img src="C:\Users\bjezr\Desktop\Work\Growmodo\ToDoListApp\screenshots\Screenshot4.jpg" align="left" style="zoom:25%;" />
+<img src="https://github.com/JezreelBuenconsejo/ToDoListApp/blob/master/screenshots/Screenshot4.jpg" align="left" style="zoom:25%;" />
 
 
 
