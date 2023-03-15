@@ -1,10 +1,31 @@
-# To Do List App (todolistapp)
+# To Do List App 
 
 Growmodo Trial Test
 
-Started on March 16, 2023 at 12:20AM (Philippine Time)
+## Screenshots
+
+Screenshot 1
+
+<img src="C:\Users\bjezr\Desktop\Work\Growmodo\ToDoListApp\screenshots\Screenshot1.PNG" align="left" style="zoom:33%;" />
+
+Screenshot 2
+
+<img src="C:\Users\bjezr\Desktop\Work\Growmodo\ToDoListApp\screenshots\Screenshot2.PNG" align="left" style="zoom:33%;" />
+
+Screenshot 4
+
+<img src="C:\Users\bjezr\Desktop\Work\Growmodo\ToDoListApp\screenshots\Screenshot3.jpg" align="left" style="zoom:25%;" />
+
+Screenshot 5
+
+<img src="C:\Users\bjezr\Desktop\Work\Growmodo\ToDoListApp\screenshots\Screenshot4.jpg" align="left" style="zoom:25%;" />
+
+
+
+More Screenshots at https://drive.google.com/drive/folders/1e83mYFvQO81APGEMxrwr2trZwViCJnhz?usp=sharing
 
 ## Install the dependencies
+
 ```bash
 yarn
 # or
