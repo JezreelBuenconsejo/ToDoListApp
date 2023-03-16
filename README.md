@@ -14,7 +14,6 @@ npm install
 quasar dev
 ```
 
-
 ### Build the app for production
 ```bash
 quasar build
@@ -22,6 +21,12 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+
+
+## Netlify Link
+
+Link: [https://jocular-lokum-86bc15.netlify.app/#/](https://jocular-lokum-86bc15.netlify.app/#/).
+
 
 ## Screenshots
 
