@@ -1,6 +1,5 @@
 # To Do List App 
 
-Growmodo Trial Test
 ## Install the dependencies
 
 ```bash
